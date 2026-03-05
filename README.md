@@ -1,4 +1,4 @@
-#  Proyecto de Mensajería: Mattermost en Debian 13 (Trixie)
+#   Mattermost en Debian 13 (Trixie)
 
 Este repositorio contiene la documentación técnica, el proceso de instalación y las pruebas de funcionamiento de un servidor de mensajería **Mattermost** desplegado en un entorno de red local.
 
